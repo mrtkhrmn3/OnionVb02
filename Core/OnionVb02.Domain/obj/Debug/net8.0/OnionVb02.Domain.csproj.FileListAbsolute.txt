@@ -1,0 +1,12 @@
+C:\Users\Mert\source\repos\OnionVb02\Core\OnionVb02.Domain\bin\Debug\net8.0\OnionVb02.Domain.deps.json
+C:\Users\Mert\source\repos\OnionVb02\Core\OnionVb02.Domain\bin\Debug\net8.0\OnionVb02.Domain.dll
+C:\Users\Mert\source\repos\OnionVb02\Core\OnionVb02.Domain\bin\Debug\net8.0\OnionVb02.Domain.pdb
+C:\Users\Mert\source\repos\OnionVb02\Core\OnionVb02.Domain\obj\Debug\net8.0\OnionVb02.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\OnionVb02\Core\OnionVb02.Domain\obj\Debug\net8.0\OnionVb02.Domain.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\OnionVb02\Core\OnionVb02.Domain\obj\Debug\net8.0\OnionVb02.Domain.AssemblyInfo.cs
+C:\Users\Mert\source\repos\OnionVb02\Core\OnionVb02.Domain\obj\Debug\net8.0\OnionVb02.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\OnionVb02\Core\OnionVb02.Domain\obj\Debug\net8.0\OnionVb02.Domain.sourcelink.json
+C:\Users\Mert\source\repos\OnionVb02\Core\OnionVb02.Domain\obj\Debug\net8.0\OnionVb02.Domain.dll
+C:\Users\Mert\source\repos\OnionVb02\Core\OnionVb02.Domain\obj\Debug\net8.0\refint\OnionVb02.Domain.dll
+C:\Users\Mert\source\repos\OnionVb02\Core\OnionVb02.Domain\obj\Debug\net8.0\OnionVb02.Domain.pdb
+C:\Users\Mert\source\repos\OnionVb02\Core\OnionVb02.Domain\obj\Debug\net8.0\ref\OnionVb02.Domain.dll

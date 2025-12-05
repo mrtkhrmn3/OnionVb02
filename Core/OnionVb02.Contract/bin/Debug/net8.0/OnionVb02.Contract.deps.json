@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OnionVb02.Contract/1.0.0": {
+        "dependencies": {
+          "OnionVb02.Domain": "1.0.0"
+        },
+        "runtime": {
+          "OnionVb02.Contract.dll": {}
+        }
+      },
+      "OnionVb02.Domain/1.0.0": {
+        "runtime": {
+          "OnionVb02.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnionVb02.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OnionVb02.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
